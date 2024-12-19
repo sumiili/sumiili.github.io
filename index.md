@@ -1,6 +1,6 @@
 # sumiili.github.io
 
-#Sandboxed Network Configuration Report
+# Sandboxed Network Configuration Report
 
 ## Overview
 This report describes the setup of a sandboxed network designed for testing and learning within the Networking and Security Practice module. The network consists of a gateway router, a web server, and a Kali Linux desktop with Juice Shop connected to the web server, whilst Burpsuite is hosted through the Kali Linux for security analysis and testing. The assigned IP ranges that were used are 192.168.36.x and 192.168.136.x.
